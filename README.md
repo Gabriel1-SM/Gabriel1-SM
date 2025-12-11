@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full-Stack com experiência prática em desenvolvimento web e mobile, atuando principalmente com **PHP**, **JavaScript** e **Flutter**. Atualmente trabalho na **GWS Websites** desenvolvendo sites institucionais, portais de notícias e plataformas governamentais.
+Desenvolvedor Full-Stack com experiência prática em desenvolvimento web e mobile, atuando principalmente com **PHP** e **JavaScript**. Atualmente trabalho na **GWS Websites** desenvolvendo sites institucionais, portais de notícias e plataformas governamentais.
 
 - 🎓 Cursando **Tecnologia em Sistemas para Internet** no IFMT (5º semestre)
 - 💼 Experiência com **sites em produção** e sistemas corporativos
