@@ -1,26 +1,28 @@
-# 👋 Olá! Eu sou Gabriel Santana Morais
+# 👋 Hi! I'm Gabriel Santana Morais
 
 <div align="center">
+
+🇧🇷 **[Versão em Português](README_pt-BR.md)**
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;PHP+%7C+JavaScript+%7C;Apaixonado+por+Tecnologia;Sempre+Aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;PHP+%7C+JavaScript;Passionate+About+Technology;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Desenvolvedor Full-Stack com experiência prática em desenvolvimento web e mobile, atuando principalmente com **PHP** e **JavaScript**. Atualmente trabalho na **GWS Websites** desenvolvendo sites institucionais, portais de notícias e plataformas governamentais.
+Full-Stack Developer with hands-on experience in web and mobile development, working primarily with **PHP** and **JavaScript**. Currently working at **GWS Websites** developing institutional websites, news portals, and government platforms.
 
-- 🎓 Cursando **Tecnologia em Sistemas para Internet** no IFMT (5º semestre)
-- 💼 Experiência com **sites em produção** e sistemas corporativos
-- 🔧 Vivência em **ERP Protheus (AdvPL)** e manutenção de sistemas legados
-- 🌱 Atualmente aprofundando conhecimentos em **Laravel**, **Docker** e **Cloud Computing**
-- 📍 Várzea Grande, Mato Grosso - Brasil
+- 🎓 Studying **Internet Systems Technology** at IFMT (5th semester)
+- 💼 Experience with **production websites** and corporate systems
+- 🔧 Background in **ERP Protheus (AdvPL)** and legacy system maintenance
+- 🌱 Currently deepening knowledge in **Laravel**, **Docker**, and **Cloud Computing**
+- 📍 Várzea Grande, Mato Grosso - Brazil
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Linguagens
+### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,17 +31,17 @@ Desenvolvedor Full-Stack com experiência prática em desenvolvimento web e mobi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Bibliotecas
+### Frameworks & Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Banco de Dados
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Ferramentas & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -47,7 +49,7 @@ Desenvolvedor Full-Stack com experiência prática em desenvolvimento web e mobi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### CMS & Plataformas
+### CMS & Platforms
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
 
 ---
@@ -65,52 +67,52 @@ Desenvolvedor Full-Stack com experiência prática em desenvolvimento web e mobi
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟 Featured Projects
 
-### 💰 [PlanGet - Gerenciador Financeiro](https://github.com/Gabriel1-SM/PlanGet)
-Sistema web para controle de finanças pessoais desenvolvido com HTML, CSS, JavaScript e PHP.
-- Gerenciamento de receitas e despesas
-- Relatórios financeiros
-- Interface responsiva e intuitiva
+### 💰 [PlanGet - Financial Manager](https://github.com/Gabriel1-SM/PlanGet)
+Web system for personal finance control built with HTML, CSS, JavaScript, and PHP.
+- Income and expense management
+- Financial reports
+- Responsive and intuitive interface
 
-### 📋 [Gerenciador de Projetos](https://github.com/Gabriel1-SM/Gerenciador-de-Projetos)
-Aplicativo mobile desenvolvido em Flutter/Dart para gestão de projetos acadêmicos.
-- CRUD completo de projetos
-- Interface moderna e fluida
-- Versão dockerizada disponível
+### 📋 [Project Manager](https://github.com/Gabriel1-SM/Gerenciador-de-Projetos)
+Mobile application developed in Flutter/Dart for managing academic projects.
+- Complete CRUD operations
+- Modern and fluid interface
+- Dockerized version available
 
 ### 🔧 [Tasks POO](https://github.com/Gabriel1-SM/tasks-poo)
-Sistema de gerenciamento de tarefas em PHP com foco em Programação Orientada a Objetos.
-- Aplicação de conceitos de POO
-- Código limpo e organizado
-- Padrões de projeto
+Task management system in PHP focused on Object-Oriented Programming.
+- Application of OOP concepts
+- Clean and organized code
+- Design patterns implementation
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Work Experience
 
-**🖥️ Desenvolvedor Front-End** | GWS Websites *(Mar/2025 - Atual)*
-- Desenvolvimento de sites institucionais e portais governamentais
-- Otimização de SEO e performance
-- Manutenção em Joomla e publicação de conteúdo
+**🖥️ Front-End Developer** | GWS Websites *(Mar/2025 - Present)*
+- Development of institutional websites and government portals
+- SEO and performance optimization
+- Joomla maintenance and content publishing
 
-**⚙️ Desenvolvedor AdvPL Júnior** | J2A Consultoria *(Nov/2024 - Jan/2025)*
-- Customizações em ERP Protheus (TOTVS)
-- Manutenção de sistemas legados
-
----
-
-## 🎯 Objetivos Atuais
-
-- 🔥 Dominar **Laravel** e frameworks JavaScript modernos (React/Vue)
-- ☁️ Aprofundar conhecimentos em **Cloud Computing** (AWS/Azure)
-- 🧪 Implementar **testes automatizados** em projetos
-- 🤝 Contribuir ativamente em projetos **open source**
-- 📚 Compartilhar conhecimento através de artigos e tutoriais
+**⚙️ Junior AdvPL Developer** | J2A Consultoria *(Nov/2024 - Jan/2025)*
+- Customizations in ERP Protheus (TOTVS)
+- Legacy system maintenance
 
 ---
 
-## 📫 Como Me Encontrar
+## 🎯 Current Goals
+
+- 🔥 Master **Laravel** and modern JavaScript frameworks (React/Vue)
+- ☁️ Deepen knowledge in **Cloud Computing** (AWS/Azure)
+- 🧪 Implement **automated testing** in projects
+- 🤝 Actively contribute to **open source** projects
+- 📚 Share knowledge through articles and tutorials
+
+---
+
+## 📫 How to Reach Me
 
 <div align="center">
   
@@ -122,15 +124,15 @@ Sistema de gerenciamento de tarefas em PHP com foco em Programação Orientada a
 
 ---
 
-## 💡 Frase que me inspira
+## 💡 Quote That Inspires Me
 
-> *"A tecnologia move o mundo, mas são as pessoas que movem a tecnologia."*
+> *"Technology moves the world, but it's people who move technology."*
 
 ---
 
 <div align="center">
   
-### ⚡ *"Sempre buscando aprender algo novo e transformar ideias em código!"* ⚡
+### ⚡ *"Always seeking to learn something new and turn ideas into code!"* ⚡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gabriel1-SM&color=blue&style=flat-square)
 
