@@ -53,20 +53,6 @@ Full-Stack Developer with hands-on experience in web and mobile development, wor
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel1-SM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel1-SM&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel1-SM&theme=tokyonight" alt="Gabriel's GitHub Streak" />
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 ### 💰 [PlanGet - Financial Manager](https://github.com/Gabriel1-SM/PlanGet)
