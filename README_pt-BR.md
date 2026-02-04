@@ -10,7 +10,7 @@
 
 Desenvolvedor Full-Stack com experiência prática em desenvolvimento web e mobile, atuando principalmente com **PHP** e **JavaScript**. Atualmente trabalho na **GWS Websites** desenvolvendo sites institucionais, portais de notícias e plataformas governamentais.
 
-- 🎓 Cursando **Tecnologia em Sistemas para Internet** no IFMT (5º semestre)
+- 🎓 Cursando **Tecnologia em Sistemas para Internet** no IFMT (6º semestre)
 - 💼 Experiência com **sites em produção** e sistemas corporativos
 - 🔧 Vivência em **ERP Protheus (AdvPL)** e manutenção de sistemas legados
 - 🌱 Atualmente aprofundando conhecimentos em **Laravel**, **Docker** e **Cloud Computing**
