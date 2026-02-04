@@ -12,7 +12,7 @@
 
 Full-Stack Developer with hands-on experience in web and mobile development, working primarily with **PHP** and **JavaScript**. Currently working at **GWS Websites** developing institutional websites, news portals, and government platforms.
 
-- 🎓 Studying **Internet Systems Technology** at IFMT (5th semester)
+- 🎓 Studying **Internet Systems Technology** at IFMT (6th semester)
 - 💼 Experience with **production websites** and corporate systems
 - 🔧 Background in **ERP Protheus (AdvPL)** and legacy system maintenance
 - 🌱 Currently deepening knowledge in **Laravel**, **Docker**, and **Cloud Computing**
